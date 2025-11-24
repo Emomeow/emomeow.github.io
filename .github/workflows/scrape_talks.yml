@@ -50,3 +50,10 @@ jobs:
         git fetch origin ${BRANCH_NAME}
         git pull --rebase origin ${BRANCH_NAME} || echo "Nothing to rebase"
         git push origin HEAD:${BRANCH_NAME}
+        git push origin HEAD:${BRANCH_NAME}
+    - name: Push changes
+      env:
+        GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      run: |
+        git remote set-url origin https://Emomeow:${GH_TOKEN}@github.com/Emomeow/academicpages.git
+        git push origin HEAD:e1de9bb1f04451e738bff406cb1eb93b3f29353c
