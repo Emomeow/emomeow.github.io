@@ -3,7 +3,7 @@ title: "Joint analysis for multivariate longitudinal and event time data with a 
 collection: publications
 category: manuscripts
 permalink: /publication/2026-joint-analysis-change-point
-excerpt: 'Developed a two-phase joint model for simultaneously analyzing multivariate longitudinal biomarkers and interval-censored event times, with applications to Huntington's Disease progression in the PREDICT-HD cohort.'
+excerpt: "Developed a two-phase joint model for simultaneously analyzing multivariate longitudinal biomarkers and interval-censored event times, with applications to Huntington's Disease progression in the PREDICT-HD cohort."
 date: 2026-02-16
 venue: 'arXiv (preprint)'
 paperurl: 'https://arxiv.org/abs/2602.14991'
