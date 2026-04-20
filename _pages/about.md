@@ -15,6 +15,7 @@ I am a 3rd-year Biostatistics Ph.D. student at the University of Nebraska Medica
 
 - **Two-phase joint modeling for interval-censored data:** Developed methods to capture biomarker change points around disease onset, supported by simulation studies and applications to Huntington's Disease cohorts.
 - **Causal mediation and dynamic prediction:** Extending joint models to quantify natural direct and indirect effects while providing individualized event-time predictions based on partial biomarker trajectories.
+- **Single-cell RNA-seq & tumor microenvironment:** Integrated 153,136 cells across five cohorts to characterize immune exclusion mechanisms in microsatellite-stable colorectal cancer; identified OLR1+ TAM–myofibroblast crosstalk as a key immunotherapy resistance driver (Attention-MIL AUC = 0.909).
 - **Reinforcement learning theory:** Investigated implicit regularization and convergence properties of temporal difference algorithms through simulation and visualization.
 
 ## Work with me

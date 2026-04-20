@@ -4,7 +4,7 @@ collection: talks
 type: "Invited Talk"
 permalink: /talks/2025-joint-analysis-iisa
 venue: "International Indian Statistical Association 2025"
-date: 2025-07-10
+date: 2025-06-10
 location: ""
 ---
 
